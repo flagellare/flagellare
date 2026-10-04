@@ -2,6 +2,8 @@
   <a href="https://rentry.co/F6031">RENTRY</a>
   &nbsp;💬&nbsp;
   <a href="https://en.pronouns.page/@toaki">PRNSPAGE</a>
+  &nbsp;💬&nbsp;
+  <a href="https://stokchauzen.straw.page">STRAWPAGE</a>
 </p>
 
 <p align="center">
